@@ -22,8 +22,8 @@ Setup:
     (Or call GET https://api.trello.com/1/members/me/boards?key=...&token=...)
 
 Usage:
-    python canvas_to_trello.py --dry-run   # show what would happen
-    python canvas_to_trello.py             # do it
+    python canvastotrello.py --dry-run   # show what would happen
+    python canvastotrello.py             # do it
 """
 
 import argparse
